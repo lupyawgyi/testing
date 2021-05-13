@@ -1,0 +1,19 @@
+Outstanding Loans Report,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+From :,,,7/1/2015,,,,,,,,Report run date:,,,,4/16/2021 16:42,,,,,,,,,,,,,,,,,,,,,,,
+,,,4/16/2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+To :,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Office :,,,Bago Branch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Total Outstanding (P+I+F):,,,"3,328,866,659",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Principal Outstanding:,,,"2,974,089,650",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Interest Outstanding:,,,"354,777,009",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fees Outstanding:,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Total Amount Disbursed: ,,,"5,426,700,000",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+No of Loans,,,"9,980",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Outstanding,,,,,,,,,,,,,,,,,,,,,,,,
+Client ID,Client name,,,DOB,,Gender,Account,Branch,Product,Interest at Disbursement,,EIR,Loan P ,Principal,,Interest,Fees,Total ,Loan Officer,Disbursed,Installments,Loan Frequency,,Status,TRP,Group ,Business Type,Loan Purpose,,Payment Type,,,Final Payment Date,Final Payment Date,Maturity Date,Maturity Date,Arrear Amount,Days in Arrears
+0003-0000-119398,Daw Daw Win,,,1/1/1973,,Female,182891,Bago Branch,HCGA,"49,410",,0,"300,000","25,000",,"1,260",0,"26,260","BM, BAG",4/12/2019,14,1,Monthly,Overdue,85.70%,BAG02534,Agriculture,Mixed Investment,,Cash,,,12-Mar-20,12/3/2020,12-Aug-20,12/8/2020,"26,260",278
+0003-0000-120449,U Arkar Zaw,,,1/1/1997,,Male,184400,Bago Branch,HCGA,"49,410",,0,"300,000","25,000",,"1,260",0,"26,260","BM, BAG",4/12/2019,14,1,Monthly,Overdue,85.70%,BAG02534,Production,Mixed Investment,,Cash,,,12-Mar-20,12/3/2020,12-Aug-20,12/8/2020,"26,260",278
+0003-0000-120453,U Zin Lin Naing,,,1/1/1990,,Male,184403,Bago Branch,HCGA,"49,410",,0,"300,000","25,000",,"1,260",0,"26,260","BM, BAG",4/12/2019,14,1,Monthly,Overdue,85.70%,BAG02534,Service,Mixed Investment,,Cash,,,12-Mar-20,12/3/2020,12-Aug-20,12/8/2020,"26,260",278
+0003-0000-120456,U Ko Ko Naing,,,1/1/1992,,Male,184404,Bago Branch,HCGA,"49,410",,0,"300,000","25,000",,"1,260",0,"26,260","BM, BAG",4/12/2019,14,1,Monthly,Overdue,85.70%,BAG02534,Service,Mixed Investment,,Cash,,,12-Mar-20,12/3/2020,12-Aug-20,12/8/2020,"26,260",278
+0003-0000-120460,Daw Daw Nge,,,5/4/1986,,Female,184406,Bago Branch,HCGA,"49,410",,0,"300,000","25,000",,"1,260",0,"26,260","BM, BAG",4/12/2019,14,1,Monthly,Overdue,85.70%,BAG02534,Trade,Mixed Investment,,Cash,,,12-Mar-20,12/3/2020,12-Aug-20,12/8/2020,"26,260",278
